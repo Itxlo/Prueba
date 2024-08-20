@@ -1,3 +1,3 @@
 # Primer proyecto
-##DGM
-## Construccion de software
+## Construccion de Software
+Autor: DGM
